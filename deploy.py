@@ -2,4 +2,4 @@ import boto3
 
 s3 = boto3.client('s3')
 
-s3.upload_file('index.html', 'divya04d', 'index.html')
+s3.upload_file('index.html', 'divya3434', 'index.html')
